@@ -7,3 +7,4 @@ public static void main(String[] args){
 >>>>>>> dev
 }
 Create a branch is quick and simple!!!
+ok!
